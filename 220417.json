@@ -86,7 +86,7 @@
     {"key" : "csp_xpath_smdyy", "name" : "神马电影(XPath)", "type" : 3, "api" : "csp_XPathMac", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/smdyy.json"},
     {"key" : "csp_xpath_waipian2", "name" : "歪片星球(XPath)", "type" : 3, "api" : "csp_XPathMac", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/waipian2.json"},
     {"key" : "csp_xpath_ meiju56", "name" : "美剧网(XPath)", "type" : 3, "api" : "csp_XPathMac", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/meiju56.json"},
-    {"key" : "csp_xpath_ rrvipw", "name" : "人人(XPath)", "type" : 3, "api" : "csp_XPathMac", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/rrvipw.json"},
+    {"key" : "csp_xpath_ rrvipw", "name" : "人人(XPath)", "type" : 3, "api" : "csp_XPathMac", "searchable" : 1, "quickSearch" : 1, "filterable" : 0, "ext" : "https://gitee.com/CCSHCoder/APP/raw/master/XPath/rrvipw.json"}
 ],
 "lives": [
 {
